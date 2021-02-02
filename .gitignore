@@ -1,3 +1,7 @@
 vendor
 /vendor
 vendor/*
+web/sites/defaut/settings.php
+/web/sites/defaut/settings.php
+sites/defaut/settings.php
+/sites/defaut/settings.php
