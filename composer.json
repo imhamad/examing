@@ -17,6 +17,7 @@
     "require": {
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "^3.0",
+        "drupal/asset_injector": "^2.7",
         "drupal/backup_migrate": "5.0.0-rc2",
         "drupal/console": "^1.9",
         "drupal/core-composer-scaffold": "^9.1",
